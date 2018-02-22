@@ -1,6 +1,6 @@
 {
   "name": "react-redux-ssr-starter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Server Side Rendering w/ React & Redux. Supports Async, React-Router, ES7+, Webpack, Babel",
   "main": "src/server.jsx",
   "scripts": {
